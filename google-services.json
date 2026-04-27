@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "297231517263",
+    "project_id": "baccpro-app",
+    "storage_bucket": "baccpro-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297231517263:android:07465ab9d58df7f2608c3a",
+        "android_client_info": {
+          "package_name": "com.baccpro.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdfq_RQRhHXwLsC7U7gpLZVYx2y1oPOeM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
